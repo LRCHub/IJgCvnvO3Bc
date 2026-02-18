@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "The Let Out",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T12:28:58.168590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Let Out (feat. Quavo)",
+      "artist": "Jidenna feat. Quavo",
+      "has_synced": false,
+      "path": "select/01_The_Let_Out_(feat._Quavo)_Jidenna_feat._Quavo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "Jidenna",
+      "has_synced": true,
+      "path": "select/02_The_Let_Out_Jidenna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Let Out (feat. Nana Kwabena)",
+      "artist": "Jidenna feat. Nana Kwabena",
+      "has_synced": false,
+      "path": "select/03_The_Let_Out_(feat._Nana_Kwabena)_Jidenna_feat._Nana_Kwabena.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Let Out (feat. Nana Kwabena)",
+      "artist": "Jidenna",
+      "has_synced": false,
+      "path": "select/04_The_Let_Out_(feat._Nana_Kwabena)_Jidenna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "Cupid feat. Tay-Dizm feat. Tay-Dizm",
+      "has_synced": false,
+      "path": "select/05_The_Let_Out_Cupid_feat._Tay-Dizm_feat._Tay-Dizm.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Let Out (feat. Tay-Dizm)",
+      "artist": "Tay-Dizm & Cupid",
+      "has_synced": false,
+      "path": "select/06_The_Let_Out_(feat._Tay-Dizm)_Tay-Dizm_&_Cupid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "Jidenna",
+      "has_synced": true,
+      "path": "select/07_The_Let_Out_Jidenna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reese Youngn - \"No More Parties\" Remix (THE LET OUT) Official Video Shot By Treeburke",
+      "artist": "BHM",
+      "has_synced": false,
+      "path": "select/08_Reese_Youngn_-__No_More_Parties__Remix_(THE_LET_OUT)_Official_Video_Shot_By_Tree_BHM.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "Jidenna feat. Nana Kwabena",
+      "has_synced": false,
+      "path": "select/09_The_Let_Out_Jidenna_feat._Nana_Kwabena.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "Jidenna feat. Quavo",
+      "has_synced": true,
+      "path": "select/10_The_Let_Out_Jidenna_feat._Quavo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Let Out (feat. Quavo)",
+      "artist": "Jidenna",
+      "has_synced": true,
+      "path": "select/11_The_Let_Out_(feat._Quavo)_Jidenna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "Cupid",
+      "has_synced": false,
+      "path": "select/12_The_Let_Out_Cupid.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Let Out feat. Tay-Dizm",
+      "artist": "Cupid",
+      "has_synced": false,
+      "path": "select/13_The_Let_Out_feat._Tay-Dizm_Cupid.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Let Out (feat",
+      "artist": "Jidenna",
+      "has_synced": true,
+      "path": "select/14_The_Let_Out_(feat_Jidenna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Let Out (feat. Nana Kwabena)",
+      "artist": "Jidenna, Nana Kwabena",
+      "has_synced": false,
+      "path": "select/15_The_Let_Out_(feat._Nana_Kwabena)_Jidenna,_Nana_Kwabena.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Let Out (feat. Quavo)",
+      "artist": "Jidenna, Quavo",
+      "has_synced": true,
+      "path": "select/16_The_Let_Out_(feat._Quavo)_Jidenna,_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "Cupid/Tay Dizm",
+      "has_synced": false,
+      "path": "select/17_The_Let_Out_Cupid_Tay_Dizm.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Let Out  (feat. Tay-Dizm   Album Version)",
+      "artist": "Cupid",
+      "has_synced": false,
+      "path": "select/18_The_Let_Out_(feat._Tay-Dizm_Album_Version)_Cupid.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Let Out",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/19_The_Let_Out_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Let Down",
+      "artist": "Seaway",
+      "has_synced": true,
+      "path": "select/20_The_Let_Down_Seaway.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Let Go",
+      "artist": "Amy Correa Bell",
+      "has_synced": false,
+      "path": "select/21_The_Let_Go_Amy_Correa_Bell.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Bed's Too Big Without You [From The «Let Your Soul Be Your Pilot»]",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/22_The_Bed's_Too_Big_Without_You_[From_The_«Let_Your_Soul_Be_Your_Pilot»]_Sting.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "No Strings: The Let Go",
+      "artist": "Ben Reilly",
+      "has_synced": true,
+      "path": "select/23_No_Strings__The_Let_Go_Ben_Reilly.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Let Go",
+      "artist": "Elle King",
+      "has_synced": true,
+      "path": "select/24_The_Let_Go_Elle_King.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Let Down",
+      "artist": "Secrets",
+      "has_synced": true,
+      "path": "select/25_The_Let_Down_Secrets.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Outro (The Let Down)",
+      "artist": "U.S. Girls",
+      "has_synced": true,
+      "path": "select/26_Outro_(The_Let_Down)_U.S._Girls.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "THE LET DOWN",
+      "artist": "Dame D.O.L.L.A feat. Nick Grant & BJ The Chicago Kid",
+      "has_synced": false,
+      "path": "select/27_THE_LET_DOWN_Dame_D.O.L.L.A_feat._Nick_Grant_&_BJ_The_Chicago_Kid.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "The Let Down (feat. Nick Grant & BJ the Chicago Kid)",
+      "artist": "Dame D.O.L.L.A.",
+      "has_synced": false,
+      "path": "select/28_The_Let_Down_(feat._Nick_Grant_&_BJ_the_Chicago_Kid)_Dame_D.O.L.L.A..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Let Out",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_The_Let_Out_J.Cole.txt"
+    }
+  ]
+}
