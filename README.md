@@ -1,0 +1,73 @@
+# J. Cole – The Let Out
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.71] Step, step
+[00:16.74] Step, step
+[00:20.60] Will I make it home? (Step)
+[00:23.54] Will I make it home? (Step)
+[00:25.93] Only God knows (step)
+[00:28.37] Only God knows (step)
+[00:31.61] Inside of the club on a wall, she was right to the side of me
+[00:33.94] Couldn't tell there was danger around, damn, she blinded me
+[00:36.42] "Please watch your step," I heard from a concerned gentleman
+[00:39.04] He was 'bout my age with a face that displayed he was genuine
+[00:41.51] "Be safe," he said, "Heard niggas who was loud in the hallway
+[00:44.14] By the bathroom door, they was plottin' on you and your compadres"
+[00:46.88] So I sobered up quick with a heightened sense of fear in me
+[00:49.40] What the fuck you doin' in the Ville with no security?
+[00:50.99] Yeah, they'll say they love you, but trust, that don't mean anything
+[00:53.98] Somebody gon' hate you, for what? It could be anything
+[00:56.65] The way that you walk, you talk, the way you rap, you know
+[00:59.34] The way that you put on the Ville, but you barely come back no more
+[01:01.69] My radar is up, I know this is due with a separate load
+[01:04.54] The vibe is negative, I'm telling shawty we got to go
+[01:06.82] And at the same moment, I swear that the lights came on
+[01:09.19] The DJ was yellin' some shit on the microphone, he said
+[01:12.16] "Yeah, you ain't got to go home (you ain't to go back home)
+[01:14.83] But you gotta get the-, but you gotta get the fuck out of here
+[01:18.83] Fuck out of here, fuck out of here, fuck out of here, fuck out of here (but you can't stay, can't stay)
+[01:22.54] When the lights come on (when those lights start turning on)
+[01:25.38] Everybody, get the-, everybody, get the fuck out of here
+[01:29.04] Fuck out of here, fuck out of here, fuck out of here, fuck out of here (you can't stay, can't stay)
+[01:32.68] Oh, will we survive the let-out? Will we survive the let-out?
+[01:38.94] Will we survive the let-out? Will we survive the let-out?
+[01:43.14] Oh, will we survive the let-out? Will we survive the let-out?
+[01:49.20] Will we survive the let-out? Will we survive the-
+[01:53.29] She got the type of thang you can't even find no more
+[01:55.96] They play the type of games I don't be around no more
+[01:58.45] I see some niggas that tyin' bandanas on they face
+[02:00.81] Hop in the trunk, that's where the hammers always lay
+[02:03.54] I'm tryna find a way to get to the parking spot
+[02:06.17] Feel like a mile away, I got to get off the block
+[02:08.55] Shawty done stopped and put her hands around my waist and told me, "I want you," damn
+[02:15.16] Step, step (nah, nah, nah, nah, nah, not right now, right now, no)
+[02:16.71] Yes, it happened to me, my nigga (keep walking, keep walking, keep walking)
+[02:19.87] (Let's go this way, right here)
+[02:20.21] And please believe me when I tell you it can happen to you (niggas on some weird shit)
+[02:24.29] Proceed with caution, thinkin' they stalkin' your moves
+[02:26.86] Pistols be sparkin', leaving your thoughts on your shoes
+[02:29.38] Outside of the club, paranoid with keys in my hand
+[02:31.88] Heard the shots ring out, full survival instincts, we ran
+[02:37.03] Will I make it home? (Will I make it home?)
+[02:39.82] Will I make it home? (Will I make it home?)
+[02:42.48] Only God, only God, only God knows
+[02:47.86] Will I make it home? (Will I make it home?)
+[02:49.94] Will I make it home? (Will I make it home?)
+[02:52.66] Only God knows, only God knows if I'ma ever get back to you
+[03:08.11] Oh, will we survive the let-out? Will we survive the let-out?
+[03:14.07] Will we survive the let-out? Will we survive the let-out?
+[03:18.19] Oh, will we survive the let-out? Will we survive the let-out?
+[03:24.56] Will we survive the let-out? Will we survive the let-out?
+[03:30.76] In a hood near you (in a hood near you)
+[03:32.94] There's a late-night gathering of souls in the parking lot
+[03:35.94] Shortly after the club close 'cause niggas don't wanna go home
+[03:40.40] But it won't be long 'fore somebody start wildin'
+[03:42.78] Shots start firin', and good time turn violent
+[03:46.54] At the let-out
+[03:48.79] Oh, will we survive the let-out? Will we survive the let-out?
+[03:55.53] Will we survive the let-out? Will we survive the let-out?
+[03:59.49] Oh, will we survive the let-out? Will we survive the let-out?
+[04:05.42] Will we survive the let-out? Will we survive the let-out?
+```
